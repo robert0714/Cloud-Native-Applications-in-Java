@@ -5,3 +5,4 @@ eureka:
   instance:
     leaseRenewalIntervalInSeconds: 5
 
+#env: dev
